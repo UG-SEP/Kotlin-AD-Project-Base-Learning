@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Birthday Wisher</string>
+    <string name="happy_birthday_kotlin">Happy Birthday Kotlin</string>
+    <string name="keep_yourself_upgrading">keep yourself upgrading</string>
+    <string name="template">Template</string>
+    <string name="pop1">pop1</string>
+    <string name="pop2">pop2</string>
+</resources>
