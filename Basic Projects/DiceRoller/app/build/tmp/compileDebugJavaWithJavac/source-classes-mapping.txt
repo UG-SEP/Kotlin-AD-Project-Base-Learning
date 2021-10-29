@@ -1,0 +1,2 @@
+com/ugthesep/diceroller/BuildConfig.java
+ com.ugthesep.diceroller.BuildConfig
