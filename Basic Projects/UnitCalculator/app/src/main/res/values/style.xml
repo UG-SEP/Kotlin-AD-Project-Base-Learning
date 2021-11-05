@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Spinner">
+        <item name="android:layout_height">@dimen/layout_height</item>
+        <item name="android:layout_width">150dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAppearance">@dimen/appearance</item>
+    </style>
+    <style name="Widget.UnitCalculator.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">@dimen/layout_height</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAppearance">@dimen/appearance</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Unit Calculator</string>
+    <string-array name="from_array">
+        <item >Ounce</item>
+        <item>Milligram</item>
+        <item>Gram</item>
+    </string-array>
+    <string name="Unit_calculator">Unit Calculator</string>
+    <string name="enter_the_amount">Enter the amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="error">Please fill the amount</string>
+    <string name="ounce">Ounce</string>
+    <string name="millimeter">Milligram</string>
+    <string name="gram">Gram</string>
+</resources>

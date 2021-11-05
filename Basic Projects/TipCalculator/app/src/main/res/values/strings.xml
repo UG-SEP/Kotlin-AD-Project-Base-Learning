@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">Tip Calculator</string>
+
+    <string name="cost_of_service">Cost of Service</string>
+
+    <string name="how_was_the_service">How was the service?</string>
+
+    <string name="Amazing">Amazing(20%)</string>
+
+    <string name="Good">Good(18%)</string>
+
+    <string name="Ok">Ok(15%)</string>
+
+    <string name="round_up_tip">Round up Tip?</string>
+
+    <string name="calculate">Calculate</string>
+
+    <string name="tip_amount">Tip Amount %s</string>
+
+    <string name="error">Please fill the cost of service</string>
+
+    <string name="speak_cos">Cost of service image</string>
+
+    <string name="speak_sq">Service Question</string>
+
+    <string name="speak_tip">Round up the tip</string>
+
+</resources>
