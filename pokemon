@@ -1,0 +1,191 @@
+[{
+		"id": "#1",
+		"pokemon_name": "Balbasaur",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+	},
+	{
+		"id": "#2",
+		"pokemon_name": "Ivysaur",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+	},
+	{
+		"id": "#3",
+		"pokemon_name": "Venusaur",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+	},
+	{
+		"id": "#4",
+		"pokemon_name": "Charmander",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+	},
+	{
+		"id": "#5",
+		"pokemon_name": "Charmeleon",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+	},
+	{
+		"id": "#6",
+		"pokemon_name": "Charizard",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+	},
+	{
+		"id": "#7",
+		"pokemon_name": "Squirtle",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+	},
+	{
+		"id": "#8",
+		"pokemon_name": "Wartortle",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png"
+	},
+	{
+		"id": "#9",
+		"pokemon_name": "Blastoise",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+	},
+	{
+		"id": "#10",
+		"pokemon_name": "Caterpie",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png"
+	},
+	{
+		"id": "#11",
+		"pokemon_name": "Metapod",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png"
+	},
+	{
+		"id": "#12",
+		"pokemon_name": "Butterfree",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png"
+	},
+	{
+		"id": "#13",
+		"pokemon_name": "Weedle",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png"
+	},
+	{
+		"id": "#14",
+		"pokemon_name": "Kakuna",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png"
+	},
+	{
+		"id": "#15",
+		"pokemon_name": "Beedrill",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png"
+	},
+	{
+		"id": "#16",
+		"pokemon_name": "Pidgey",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png"
+	},
+	{
+		"id": "#17",
+		"pokemon_name": "Pidgeotto",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png"
+	},
+	{
+		"id": "#18",
+		"pokemon_name": "Pidgeot",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png"
+	},
+	{
+		"id": "#19",
+		"pokemon_name": "Pikachu",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+	},
+	{
+		"id": "#20",
+		"pokemon_name": "Raichu",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png"
+	},
+	{
+		"id": "#21",
+		"pokemon_name": "Boldore",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/525.png"
+	},
+	{
+		"id": "#22",
+		"pokemon_name": "Gigalith",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/526.png"
+	},
+	{
+		"id": "#23",
+		"pokemon_name": "Gurdurr",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/533.png"
+	},
+	{
+		"id": "#24",
+		"pokemon_name": "Conkeldurr",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/534.png"
+	},
+	{
+		"id": "#25",
+		"pokemon_name": "Swanna",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/581.png"
+	},
+	{
+		"id": "#26",
+		"pokemon_name": "Vanillite",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/582.png"
+	},
+	{
+		"id": "#27",
+		"pokemon_name": "Vanillish",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/583.png"
+	},
+	{
+		"id": "#28",
+		"pokemon_name": "Vanilluxe",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/584.png"
+	},
+	{
+		"id": "#29",
+		"pokemon_name": "Elgyem",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/605.png"
+	},
+	{
+		"id": "#30",
+		"pokemon_name": "Beheeyem",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/606.png"
+	},
+	{
+		"id": "#31",
+		"pokemon_name": "Chespin",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png"
+	},
+	{
+		"id": "#32",
+		"pokemon_name": "Quilladin",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/651.png"
+	},
+	{
+		"id": "#33",
+		"pokemon_name": "Fennekin",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/653.png"
+	},
+	{
+		"id": "#34",
+		"pokemon_name": "Braixen",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/654.png"
+	},
+	{
+		"id": "#35",
+		"pokemon_name": "Delphox",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/655.png"
+	},
+	{
+		"id": "#36",
+		"pokemon_name": "Froakie",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/656.png"
+	},
+	{
+		"id": "#37",
+		"pokemon_name": "Frogadier",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/657.png"
+	},
+	{
+		"id": "#38",
+		"pokemon_name": "Greninja",
+		"img_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/658.png"
+	}
+]
